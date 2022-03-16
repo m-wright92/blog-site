@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(191, 230, 102);
+}
+
+h1{
+  color:brown;
+  font-family: cursive;
+  text-align: center;
+}
+
+h2{
+  color: beige;
+  font-family: cursive;
+  text-align: center;
+}
+
+.Intro {
+  color:rgb(78, 64, 64);
+  font-family: cursive;
+}
+
+.Filler {
+  color:brown;
+  font-family: fantasy;
+}
+
+.about {
+  font-weight: bold;
+  font-family:cursive
+}
